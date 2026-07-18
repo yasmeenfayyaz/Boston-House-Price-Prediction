@@ -44,13 +44,12 @@ The data was split into **80% Training** and **20% Testing** sets. A Linear Regr
 ## 📉 Visualizations
 Here is the scatter plot showing the **Actual vs Predicted Prices**. The closer the points are to the red line, the more accurate the model's predictions are.
 
-![Actual vs Predicted Prices](https://raw.githubusercontent.com/[Aapka GitHub Username]/[Aapka Repo Name]/main/actual_vs_predicted.png)
-
-*(Note: Upload your plot image to your repository and replace the URL above to make it display here!)*
+https://colab.research.google.com/drive/1PRmC0sI_Uhy5ELI7azhLBaW0HoeAlDqN#scrollTo=iDkGLHVRE2sz&fullscreenOutput=true
 
 ---
 
 ## 🚶‍♂️ How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)[Aapka GitHub Username]/[Aapka Repo Name].git
+   https://github.com/yasmeenfayyaz/Boston-House-Price-Prediction
+   
